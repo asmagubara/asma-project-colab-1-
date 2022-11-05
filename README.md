@@ -12,4 +12,4 @@ Chapter 5: https://colab.research.google.com/drive/10N33pjtD9JZunZ8LI1ClQtZegaqe
 
 Chapter 6: https://colab.research.google.com/drive/16CagvpKTt_Da0kFb0FhBGfre2EdjZxPX?usp=sharing
 
-Chapter 7: 
+Chapter 7: https://colab.research.google.com/drive/1jmeYEdkG3CeMLMPp6pmJL7ObRJFcS_cG?usp=sharing
