@@ -4,7 +4,7 @@ chapter 1: https://colab.research.google.com/drive/1FVePrAZaEY3W1EOjDNVF2wF5uQgi
 
 chapter 2: https://colab.research.google.com/drive/1qVHS1YrTPwMdKrN694CNR_BsWdfgmFKD?usp=sharing
 
-chapter 3: 
+chapter 3: https://colab.research.google.com/drive/1Us2ECp-_6bdQHAILY5eFt8_aBLjOmvFE?usp=sharing
 
 Chapter 4: https://colab.research.google.com/drive/1zGbKB5lj5ohUXXNvZao8YzXS7wpMt3qc?usp=sharing
 
